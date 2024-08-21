@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Tahoma;
+}
+body{
+    background-color: #F5F5F5;
+}
+div{
+    text-align: center;
+    padding: 50px;
+    color: #000000;
+    border-top: 1px solid #d5d5d5
+}
+h1{
+    margin: 0 0 15px 0;
+    font-size: 32px;
+}
+img{
+    width: 190px;
+}
+h2{
+    font-size: 24px;
+}
+p{
+    line-height: 30px;
+    margin: 15px auto 30px auto;
+    width: 930px;
+    font-size: 16px;
+}
+.bottao-comprar{
+    text-decoration: none;
+    padding: 10px 30px;
+    border-radius: 25px;
+    font-size: 14px;
+    font-weight: bold;
+    color: #ffffff;
+    background-color:#49B970 ;
+}
+h3{
+    margin: 0 0 15px 0;
+    font-size: 18px;
+}
+span{
+    font-weight: bold;
+}
