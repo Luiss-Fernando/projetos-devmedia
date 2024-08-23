@@ -1,0 +1,72 @@
+body{
+    font-family: tahoma;
+}
+.secao{
+    width: 700px;
+    text-align: center;
+    margin: 20px auto;
+}
+.logo-tipo{
+    width: 200px;
+}
+span{
+    font-weight: bold;
+}
+h1{
+    border-radius: 10px;
+    font-size: 28px;
+    margin: 30px 0 0 0;
+    padding-top: 30px;
+    border-top: 1px solid #ce946c;
+}
+h2{
+    margin-top: 12px;
+    font-weight: normal;
+    color: #ce946c;
+}
+.secao-destaque h3{
+    font-size: 25px;
+}
+.secao-destaque h4{
+    margin-bottom: 10px;
+    font-size: 20px;
+}
+
+.secao-links{
+    font-size: 18px;
+    border-radius: 16px;
+    background-color: #f5aa5e0f;
+    padding: 8px;
+    color: #a15a0e;
+    margin-left: 10px;
+}
+.imagem-banner{
+    border-radius: 10px;
+    width: 700px;
+}
+.imagem-produto{
+    border-radius: 10px;
+    width: 400px;
+}
+.secao-destaque{
+    border-radius: 10px;
+    background-color: #f09636;
+    color: #ffffff;
+    padding: 15px 0px 24px 0;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.secao-destaque p{
+    line-height: 30px;
+    font-size: 18px
+}
+.borda-contato h3{
+    padding-top: 15px;
+    border-top: 1px solid #ce946c;
+    border-radius: 10px;
+}
+.borda-contato .borda-baixo {
+    border-bottom: 1px solid #ce946c;
+    padding-bottom: 15px;
+    border-radius: 10px;
+}
