@@ -1,0 +1,165 @@
+/* reset configurações padrão do CSS*/
+*{
+    margin: 0;
+    font-family: Tahoma;
+}
+/* fim - reset configurações padrão do CSS*/
+
+/* INICIO CODIGO QUE ESTILIZA A PÁGINA HTML */
+
+/*secao 1 - configuracao de link do topo e imagem logo tipo*/
+.logo-topo{
+    background-color: #afddfb; 
+}
+.logo-topo img{
+    width: 150px;
+}
+.servicos-topo{
+    text-align: center;
+    margin-top: 15px;
+    margin-bottom: 25px;
+}
+.servicos-topo a{
+    color: #1d1d1d;
+    font-size: 18px;
+    margin-top: 0;
+    margin-bottom: 0;
+    text-decoration: none;
+    border-bottom: 2px solid #1d1d1d;
+    margin: 0 10px;
+}
+/* fim - secao 1 */
+
+/*configuração geral de todas as divs*/
+.secao{
+    padding-top: 30px;
+    text-align: center;
+    padding-bottom: 30px;
+}
+/* fim - configuração geral*/
+
+/*configuração geral de todas os paragrafos*/
+p{
+   margin: 10px auto;
+}
+/* fim - configuração geral paragrafo*/
+
+/* configuração para imagens das divs 3 e 5 */
+.assinatura img{
+    border-radius: 10px;
+    width: 450px;
+}
+/* fim -configuração para imagens das divs 3 e 5 */
+
+/* configuração da div 3 e 5 */
+.assinatura-paragrafo{
+    line-height: 25px;
+    width: 980px;
+    text-align: justify;
+}
+.texto-destaque-azul{
+    font-weight: bold;
+    color: #1d80c1;
+}
+
+/* fim - configuração da div 3 e 5 */
+
+/* configuração div 1 e 5 */
+.servicos{
+    width: 700px;
+    font-size: 22px;
+    line-height: 42px;
+}
+/* fim - configuração div 1 e 5 */
+
+/* configuração das divs 4 e 6 */
+.texto-destaque-amarelo{
+    font-weight: bold;
+    color: #dfdf11;
+}
+.fundoazul{
+    color: #ffffff;
+    background-color: #1d80c1;
+}
+.fundoazul h3{
+    color: #ffffff;
+    line-height: 42px;
+    font-size: 28px;
+}
+/* fim - configuração das divs 4 e 6 */
+
+/* configuração banner div 2 */
+.banner img{
+    border-radius: 10px;
+    margin-top: 10px;
+    padding-top: 0;
+}
+/* fim - configuração banner div 2 */
+
+/* configuração div 3 */
+h1{
+    margin-bottom: 5px;
+    color: #1d1d1d;
+}
+h2{
+    margin-top: 0;
+    font-weight: normal;
+    color: #1c81c0;
+}
+/* fim - configuração div 3 */
+
+/* configuração de lista div 4 */
+.lista {
+    width: 135px;
+    margin: 40px auto;
+}
+.lista li{
+    font-size: 18px;
+    text-align: left;
+    color: #ffffff;
+    line-height: 42px;
+}
+/* fim - configração de lista div 4 */
+
+/* configuração das divs 5 e 6 */
+.subtitulo{
+    margin-bottom: 20px;
+    line-height: 42px;
+    font-size: 28px;
+    margin-top: 0;
+    font-weight: bold;
+    color: #1c81c0;
+}
+/* fim - configuração das divs 5 e 6 */
+
+/* configuração div  6 */
+.contato-paragrafo{
+    border-radius: 10px;
+    width: 1080px;
+    color: #ffffff;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    background-color: #000000;
+    padding: 15px;
+}
+
+.lista-contato{
+    list-style: none;
+    margin: 40px auto;
+    width: 210px;
+}
+.lista-contato li{
+    margin-top: 15px;
+    text-align: center;
+    font-size: 18px;
+}
+.lista-contato a{
+    background-color: #ffffff;
+    color: #1d80c1;
+    padding: 2px 5px;
+    border-radius: 5px;
+}
+/* fim - configuração div 6 */
+
+
+/* FIM CODIGO QUE ESTILIZA A PÁGINA HTML */
