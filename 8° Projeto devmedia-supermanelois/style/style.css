@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+}
+html, body{
+    height: 100%;
+}
+.topo{
+    width: 100%;
+    font-size: 22px;
+    font-family: sans-serif;
+    background-color: #4710c1;
+    color: #fff;
+    padding: 20px 0;
+}
+.link-topo a{
+    font-weight: bold;
+    font-size: 14px;
+    border-radius: 20px;
+    padding: 8px;
+    background: #ffffff;
+    color:#4710c1 ;
+    text-decoration: none;
+}
